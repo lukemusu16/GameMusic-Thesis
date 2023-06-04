@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{98fd3846-1dd1-4219-acd8-ece8b3fa8654}">
+		<property name="assetPath">
+			<value>prototype apreggio.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>70.007999999999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{611ffefd-2a1f-4304-8fb3-e96e90813da3}</destination>
+		</relationship>
+	</object>
+</objects>

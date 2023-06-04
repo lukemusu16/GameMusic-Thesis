@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b62c6559-92b8-4f80-9534-4a8fe5f07ffb}">
+		<property name="assetPath">
+			<value>prototype counter melody.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>70.007999999999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{611ffefd-2a1f-4304-8fb3-e96e90813da3}</destination>
+		</relationship>
+	</object>
+</objects>
